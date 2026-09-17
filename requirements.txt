@@ -1,0 +1,9 @@
+customtkinter
+speechrecognition
+pyperclip
+pyautogui
+sounddevice
+scipy
+pynput
+numpy
+pyinstaller
